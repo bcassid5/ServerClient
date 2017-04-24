@@ -1,0 +1,9 @@
+C:\Users\benca\Documents\Visual Studio 2015\Projects\assignment2_bcassid5\assignment2_bcassid5\bin\Release\assignment2_bcassid5.exe.config
+C:\Users\benca\Documents\Visual Studio 2015\Projects\assignment2_bcassid5\assignment2_bcassid5\bin\Release\assignment2_bcassid5.exe
+C:\Users\benca\Documents\Visual Studio 2015\Projects\assignment2_bcassid5\assignment2_bcassid5\bin\Release\assignment2_bcassid5.pdb
+C:\Users\benca\Documents\Visual Studio 2015\Projects\assignment2_bcassid5\assignment2_bcassid5\obj\Release\assignment2_bcassid5.csprojResolveAssemblyReference.cache
+C:\Users\benca\Documents\Visual Studio 2015\Projects\assignment2_bcassid5\assignment2_bcassid5\obj\Release\assignment2_bcassid5.View.resources
+C:\Users\benca\Documents\Visual Studio 2015\Projects\assignment2_bcassid5\assignment2_bcassid5\obj\Release\assignment2_bcassid5.Properties.Resources.resources
+C:\Users\benca\Documents\Visual Studio 2015\Projects\assignment2_bcassid5\assignment2_bcassid5\obj\Release\assignment2_bcassid5.csproj.GenerateResource.Cache
+C:\Users\benca\Documents\Visual Studio 2015\Projects\assignment2_bcassid5\assignment2_bcassid5\obj\Release\assignment2_bcassid5.exe
+C:\Users\benca\Documents\Visual Studio 2015\Projects\assignment2_bcassid5\assignment2_bcassid5\obj\Release\assignment2_bcassid5.pdb
